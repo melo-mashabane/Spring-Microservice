@@ -48,5 +48,3 @@ public class Comments {
         this.like = like;
     }
 }
-
-

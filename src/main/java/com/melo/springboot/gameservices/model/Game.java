@@ -96,5 +96,3 @@ public class Game {
                 description);
     }
 }
-
-

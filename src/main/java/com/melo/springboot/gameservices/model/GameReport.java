@@ -38,4 +38,3 @@ public class GameReport {
         this.average_likes_per_game = average_likes_per_game;
     }
 }
-
