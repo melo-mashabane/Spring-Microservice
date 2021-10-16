@@ -2,11 +2,11 @@ package com.melo.springboot.gameservices.service;
 
 
 import com.melo.springboot.gameservices.model.*;
-import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Component;
 
 import java.util.*;
 
-@Controller
+@Component
 public class PlayerService {
 
     private static List<Player> players = new ArrayList<>();
